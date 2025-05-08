@@ -7,8 +7,8 @@ export default function Banner() {
 			<div className='bg-light-blue pt-10 basis-full p-5'>
 				<LeftSideBanner />
 			</div>
-			<div className='basis-full pt-10 p-5'>
-				<div className='flex items-center justify-center'>
+			<div className='basis-full lg:pt-10 lg:p-5'>
+				<div className='hidden lg:flex items-center justify-center'>
 					<div className='h-[300px] w-[300px] md:w-[380px] xl:h-[500px] xl:w-[500px]'>
 						<img src={imgUrl} alt='banner' />
 					</div>
