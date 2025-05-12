@@ -1,3 +1,13 @@
+# Tech Stack
+
+- React
+- TypeScript
+- TailwindCSS v4
+- [Motion](https://motion.dev/)
+- [Lucide React](https://lucide.dev/guide/packages/lucide-react)
+
+<br>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
